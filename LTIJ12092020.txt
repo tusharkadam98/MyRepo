@@ -1,5 +1,0 @@
-Pehle ek folder bana apne local system main 'bitheadprac' naam ka. Same on github. 
-Uske baad local system main config karke t
-
-New Project -> Maven Project -> Next -> Tick on simple, select directory
-

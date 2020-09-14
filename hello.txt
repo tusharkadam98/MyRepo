@@ -1,3 +1,0 @@
-hello git
-Welcome to LTI
-Learning is fun.
